@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/book_finder_app/static/css/main.88ba14cd.chunk.css",
+    "main.js": "/book_finder_app/static/js/main.dac8c5ec.chunk.js",
+    "main.js.map": "/book_finder_app/static/js/main.dac8c5ec.chunk.js.map",
+    "runtime-main.js": "/book_finder_app/static/js/runtime-main.0b0d2fd6.js",
+    "runtime-main.js.map": "/book_finder_app/static/js/runtime-main.0b0d2fd6.js.map",
+    "static/js/2.b7f8fb95.chunk.js": "/book_finder_app/static/js/2.b7f8fb95.chunk.js",
+    "static/js/2.b7f8fb95.chunk.js.map": "/book_finder_app/static/js/2.b7f8fb95.chunk.js.map",
+    "index.html": "/book_finder_app/index.html",
+    "static/css/main.88ba14cd.chunk.css.map": "/book_finder_app/static/css/main.88ba14cd.chunk.css.map",
+    "static/js/2.b7f8fb95.chunk.js.LICENSE.txt": "/book_finder_app/static/js/2.b7f8fb95.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/book_finder_app/static/media/bgg.be994493.jpg",
+    "static/media/video.5e148c47.mp4": "/book_finder_app/static/media/video.5e148c47.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b0d2fd6.js",
+    "static/js/2.b7f8fb95.chunk.js",
+    "static/css/main.88ba14cd.chunk.css",
+    "static/js/main.dac8c5ec.chunk.js"
+  ]
+}
